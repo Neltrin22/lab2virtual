@@ -111,4 +111,4 @@ jobs:
           #Set artifact name
           name: artifact
           #From this path
-          path: target/lab2virtual-0.0.1-SNAPSHOT.jar
+          path: despl/lab2virtual-0.0.1-SNAPSHOT.jar
